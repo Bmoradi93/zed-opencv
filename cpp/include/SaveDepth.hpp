@@ -9,7 +9,7 @@
 #include <limits>
 #include <thread>
 
-#include <opencv2/opencv.hpp>
+#include <opencv4/opencv2/opencv.hpp>
 #include <sl/Camera.hpp>
 
 const std::string helpString = "[d] Save Depth, [n] Change Depth format, [p] Save Point Cloud, [m] Change Point Cloud format, [q] Quit";

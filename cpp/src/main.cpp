@@ -27,9 +27,9 @@
 #include <sl/Camera.hpp>
 
 // OpenCV includes
-#include <opencv2/opencv.hpp>
+#include <opencv4/opencv2/opencv.hpp>
 // OpenCV dep
-#include <opencv2/cvconfig.h>
+#include <opencv4/opencv2/cvconfig.h>
 
 // Sample includes
 #include <SaveDepth.hpp>
